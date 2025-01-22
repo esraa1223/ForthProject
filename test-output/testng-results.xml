@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-23T02:51:22 EET" name="Default suite" finished-at="2025-01-23T02:51:38 EET" duration-ms="16008">
+    <groups>
+    </groups>
+    <test started-at="2025-01-23T02:51:22 EET" name="Default test" finished-at="2025-01-23T02:51:38 EET" duration-ms="16008">
+      <class name="MyPackage.MyTestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-23T02:51:22 EET" name="Setup" finished-at="2025-01-23T02:51:36 EET" duration-ms="13417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ADDData()[pri:1, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-23T02:51:36 EET" name="ADDData" finished-at="2025-01-23T02:51:36 EET" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ADDData -->
+        <test-method signature="UpdateData()[pri:2, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-23T02:51:36 EET" name="UpdateData" finished-at="2025-01-23T02:51:36 EET" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateData -->
+        <test-method signature="ReadData()[pri:3, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-23T02:51:36 EET" name="ReadData" finished-at="2025-01-23T02:51:38 EET" duration-ms="2467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+      </class> <!-- MyPackage.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
